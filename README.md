@@ -9,13 +9,13 @@ Make sure you have pre-installed Python 3.6 or later.
 Clone this repository:
 
 ```bash
-git clone https://github.com/yasser-saeedi/NetBox_Device_Version_Sync
+git clone https://github.com/yasser-saeedi/netbox_device_version_sync
 ```
 
 Go to the NetBox_Device_Version_sync directory:
 
 ```bash
-cd ./NetBox_Device_Version_Sync
+cd ./netbox_device_version_sync
 ```
 
 Create a virtual environment to run the script:
